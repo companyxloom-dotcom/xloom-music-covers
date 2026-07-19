@@ -1,0 +1,35 @@
+{
+  "_help": "Portadas animadas de Xloom Music. Subí tu video (mp4 o webm, en loop, sin sonido) a donde lo subías antes (catbox.moe, streamable.com, etc.) y pegá el link directo acá abajo, en 'covers'. La clave (a la izquierda) tiene que ser el título y el artista de la canción, en minúsculas, SIN tildes ni signos de puntuación, separados por un solo espacio, en ese orden: 'titulo artista'. Ejemplo real más abajo. Si no estás seguro de cómo queda la clave, decile a Claude el título y artista exactos de la canción y te la arma. Esta clave '_help' no hace nada, es solo para explicar, la podés dejar ahí sin problema.",
+  "covers": {
+    "foreword tyler the creator": "https://res.cloudinary.com/ejchztnt/video/upload/Flower_Boy_Animated_Album_Cover_-_Luke_Ricci_720p_h264_youtube_k6wnmh.mp4",
+    "where this flower blooms tyler the creator": "https://res.cloudinary.com/ejchztnt/video/upload/Flower_Boy_Animated_Album_Cover_-_Luke_Ricci_720p_h264_youtube_k6wnmh.mp4",
+    "sometimes tyler the creator": "https://res.cloudinary.com/ejchztnt/video/upload/Flower_Boy_Animated_Album_Cover_-_Luke_Ricci_720p_h264_youtube_k6wnmh.mp4",
+    "see you again tyler the creator": "https://res.cloudinary.com/ejchztnt/video/upload/Flower_Boy_Animated_Album_Cover_-_Luke_Ricci_720p_h264_youtube_k6wnmh.mp4",
+    "who dat boy tyler the creator": "https://res.cloudinary.com/ejchztnt/video/upload/Flower_Boy_Animated_Album_Cover_-_Luke_Ricci_720p_h264_youtube_k6wnmh.mp4",
+    "pothole tyler the creator": "https://res.cloudinary.com/ejchztnt/video/upload/Flower_Boy_Animated_Album_Cover_-_Luke_Ricci_720p_h264_youtube_k6wnmh.mp4",
+    "garden shed tyler the creator": "https://res.cloudinary.com/ejchztnt/video/upload/Flower_Boy_Animated_Album_Cover_-_Luke_Ricci_720p_h264_youtube_k6wnmh.mp4",
+    "boredom tyler the creator": "https://res.cloudinary.com/ejchztnt/video/upload/Flower_Boy_Animated_Album_Cover_-_Luke_Ricci_720p_h264_youtube_k6wnmh.mp4",
+    "i aint got time tyler the creator": "https://res.cloudinary.com/ejchztnt/video/upload/Flower_Boy_Animated_Album_Cover_-_Luke_Ricci_720p_h264_youtube_k6wnmh.mp4",
+    "911 mr lonely tyler the creator": "https://res.cloudinary.com/ejchztnt/video/upload/Flower_Boy_Animated_Album_Cover_-_Luke_Ricci_720p_h264_youtube_k6wnmh.mp4",
+    "droppin seeds tyler the creator": "https://res.cloudinary.com/ejchztnt/video/upload/Flower_Boy_Animated_Album_Cover_-_Luke_Ricci_720p_h264_youtube_k6wnmh.mp4",
+    "november tyler the creator": "https://res.cloudinary.com/ejchztnt/video/upload/Flower_Boy_Animated_Album_Cover_-_Luke_Ricci_720p_h264_youtube_k6wnmh.mp4",
+    "glitter tyler the creator": "https://res.cloudinary.com/ejchztnt/video/upload/Flower_Boy_Animated_Album_Cover_-_Luke_Ricci_720p_h264_youtube_k6wnmh.mp4",
+    "enjoy right now today tyler the creator": "https://res.cloudinary.com/ejchztnt/video/upload/Flower_Boy_Animated_Album_Cover_-_Luke_Ricci_720p_h264_youtube_k6wnmh.mp4",
+
+    "con el combo trueno": "https://res.cloudinary.com/gneixawl/video/upload/CanvasDownloader_Trueno_1784477471585_ypyfcz.mp4",
+    "x unas llantas trueno": "https://res.cloudinary.com/gneixawl/video/upload/CanvasDownloader_Trueno_1784477471585_ypyfcz.mp4",
+    "turrazo trueno": "https://res.cloudinary.com/gneixawl/video/upload/CanvasDownloader_Trueno_1784477471585_ypyfcz.mp4",
+    "pumas trueno": "https://res.cloudinary.com/gneixawl/video/upload/CanvasDownloader_Trueno_1784477471585_ypyfcz.mp4",
+    "zombi trueno": "https://res.cloudinary.com/gneixawl/video/upload/CanvasDownloader_Trueno_1784477471585_ypyfcz.mp4",
+    "estilo sudaka trueno": "https://res.cloudinary.com/gneixawl/video/upload/CanvasDownloader_Trueno_1784477471585_ypyfcz.mp4",
+    "bailando sola trueno": "https://res.cloudinary.com/gneixawl/video/upload/CanvasDownloader_Trueno_1784477471585_ypyfcz.mp4",
+    "90s trueno": "https://res.cloudinary.com/gneixawl/video/upload/CanvasDownloader_Trueno_1784477471585_ypyfcz.mp4",
+    "uruguay trueno": "https://res.cloudinary.com/gneixawl/video/upload/CanvasDownloader_Trueno_1784477471585_ypyfcz.mp4",
+    "grillz trueno": "https://res.cloudinary.com/gneixawl/video/upload/CanvasDownloader_Trueno_1784477471585_ypyfcz.mp4",
+    "delivery freestyle trueno": "https://res.cloudinary.com/gneixawl/video/upload/CanvasDownloader_Trueno_1784477471585_ypyfcz.mp4",
+    "1000 horas trueno": "https://res.cloudinary.com/gneixawl/video/upload/CanvasDownloader_Trueno_1784477471585_ypyfcz.mp4",
+    "rain iv trueno": "https://res.cloudinary.com/gneixawl/video/upload/CanvasDownloader_Trueno_1784477471585_ypyfcz.mp4",
+    "pity in the sky trueno": "https://res.cloudinary.com/gneixawl/video/upload/CanvasDownloader_Trueno_1784477471585_ypyfcz.mp4"
+  }
+}
+
