@@ -1,0 +1,10 @@
+{
+  "_help": "Canciones 'incrustadas a mano' de Xloom Music (overrides de audio). Subí el audio (m4a o mp3, la canción completa) a donde lo subías antes (Cloudinary, catbox.moe, streamable.com, etc.) y pegá el link directo acá abajo, en 'overrides'. La clave (a la izquierda) tiene que ser el título y el artista de la canción, en minúsculas, SIN tildes ni signos de puntuación, separados por un solo espacio, en ese orden: 'titulo artista'. Ejemplo real más abajo. Si no estás seguro de cómo queda la clave, decile a Claude el título, el artista y el link, y te la arma. Esta clave '_help' no hace nada, es solo para explicar, la podés dejar ahí sin problema.",
+  "overrides": {
+    "sad girl lana del rey": "https://res.cloudinary.com/dnflp3pvx/video/upload/v1784495230/Sad_Girl_M4A_128K_alvmj0.m4a",
+    "chihiro billie eilish": "https://res.cloudinary.com/tu43gqaa/video/upload/v1784559848/Billie_Eilish_-_CHIHIRO_M4A_128K_fyg7gi.m4a",
+    "sparks coldplay": "https://res.cloudinary.com/tu43gqaa/video/upload/v1784559795/Coldplay-_Sparks_Visualiser_M4A_128K_qbsjeb.m4a",
+    "hilito romeo santos": "https://res.cloudinary.com/bwawuvpz/video/upload/v1785616420/Romeo_Santos_-_Hilito_Official_Audio_M4A_128K_nuljwc.m4a",
+    "ph kris r": "https://res.cloudinary.com/bwawuvpz/video/upload/v1785616364/KRIS_R_-_PH_M4A_128K_e9gjft.m4a"
+  }
+}
